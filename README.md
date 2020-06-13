@@ -14,7 +14,7 @@ Here how it works
 4) closes the browser
 5) opens whatsapp web in another browser
 6) ask the user to enter the person name/group name to send the messages.
-7) Read the previously creaed text file and send its content word by word to the person/group
+7) Read the previously created text file and send its content word by word to the person/group
 8) closes the browser and terminates
 
 ## video
