@@ -18,4 +18,4 @@ Here how it works
 8) closes the browser and terminates
 
 ## video
-check the visual workinng of he script in the [video](https://drive.google.com/file/d/1r_Bso4XTRTXw3Js9t4AagoEtx8GYL6R9/view?usp=sharing)
+check the visual working of the script in the [video](https://drive.google.com/file/d/1r_Bso4XTRTXw3Js9t4AagoEtx8GYL6R9/view?usp=sharing)
